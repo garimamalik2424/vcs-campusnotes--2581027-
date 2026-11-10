@@ -1,0 +1,11 @@
+# CampusNotes
+
+CampusNotes is a simple student notes management project.
+
+## Features
+- Organize study notes
+- View subject-wise notes
+- Simple and clean interface
+
+## Created by
+Garima Malik
