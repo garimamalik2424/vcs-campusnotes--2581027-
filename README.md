@@ -15,3 +15,4 @@ Garima Malik
 This project was updated from the cloned repository.
 
 "Study Resources" 
+"CampusNotes provides organized study materials for students." 
